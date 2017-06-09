@@ -1,0 +1,3 @@
+/home/rsy6318/Desktop/Cmake/texture/CMakeFiles/edit_cache.dir
+/home/rsy6318/Desktop/Cmake/texture/CMakeFiles/rebuild_cache.dir
+/home/rsy6318/Desktop/Cmake/texture/CMakeFiles/texture.dir

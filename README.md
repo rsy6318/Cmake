@@ -1,0 +1,1 @@
+require CUDA OPENCV OPENGL CMAKE
